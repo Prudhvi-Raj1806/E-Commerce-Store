@@ -20,7 +20,8 @@ const config: Config = {
     },
     extend: {
       colors: {
-        background: '#FFFFFF',
+        background: 'var(--background)',
+        foreground: 'var(--foreground)',
         primary: {
           DEFAULT: '#0F172A',
           foreground: '#FFFFFF',
