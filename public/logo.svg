@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 40" fill="none">
+  <!-- Gift box icon -->
+  <rect x="2" y="16" width="26" height="20" rx="2" fill="#4F46E5"/>
+  <rect x="0" y="12" width="30" height="6" rx="2" fill="#6366F1"/>
+  <line x1="15" y1="12" x2="15" y2="36" stroke="white" stroke-width="2"/>
+  <path d="M15 12 C15 12, 9 6, 12 4 C15 2, 15 10, 15 10" fill="white" opacity="0.9"/>
+  <path d="M15 12 C15 12, 21 6, 18 4 C15 2, 15 10, 15 10" fill="white" opacity="0.7"/>
+  <!-- Wordmark -->
+  <text x="38" y="27" font-family="'Plus Jakarta Sans', 'Inter', system-ui, sans-serif" font-weight="700" font-size="18" fill="#0F172A" letter-spacing="-0.5">GiftForge</text>
+</svg>
